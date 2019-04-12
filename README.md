@@ -1,7 +1,7 @@
 Waspmote Frame parser
 =====================
 
-Python package to parse [Libelium Waspmote](http://www.libelium.com/products/waspmote/) Data Frame to python dict.
+Python package to parse [Libelium Waspmote](http://www.libelium.com/products/waspmote/) Data Frame to python dict
 
 
 How to use 
@@ -20,3 +20,5 @@ Docs
 ----
 
 [Data Frame Guide](http://www.libelium.com/development/waspmote/documentation/data-frame-guide/)
+
+[Waspmote Pro API - v040](http://www.libelium.com/development/waspmote/sdk_applications)
